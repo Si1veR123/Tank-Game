@@ -1,0 +1,9 @@
+*.pyc
+.idea/
+*.psd
+
+# BIG FILES
+bg_bl.png
+bg_br.png
+bg_tl.png
+bg_tr.png

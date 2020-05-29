@@ -1,0 +1,4 @@
+Average time for computers: 0.4
+At around 0.4s timer, speed should be 8
+For 0.5s, speed should be 10
+For 0.3s, speed should be 6
